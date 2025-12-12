@@ -334,6 +334,6 @@ namespace TerminalLibrary.Migrations
                     b.Navigation("trips");
                 });
 #pragma warning restore 612, 618
-        }
+          }
     }
 }
