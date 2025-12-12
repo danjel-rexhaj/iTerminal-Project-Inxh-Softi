@@ -1,0 +1,46 @@
+@model TerminalLibrary.Models.PaginatedProductViewModel
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+
+
+<div class="d-flex justify-content-between my-3">
+    <div class="custom-control custom-switch">
+        <input type="checkbox" class="custom-control-input" id="currencySwitch" onclick="toggleCurrency()">
+        <label class="custom-control-label text-white" for="currencySwitch">ALL</label>
+    </div>
+</div>
+
+<div class="blerja">
+<div class="col-6">
+    <img src="~/uploads/@Model.Unit.ImageFileName" alt="company-logo">
+</div>
+
+<div class="tedhenatb">
+    <h2>Detajet e Biletes</h2>
+    <p><strong>Emri: </strong> @Model.User.FirstName @Model.User.LastName</p>
+    <p><strong>Email: </strong> @Model.User.Email</p>
+    <p><strong>Kompania me te cilen po udhetoni: </strong> @Model.Unit.Creator.Name</p>
+    <p><strong>Data e Udhetimit:</strong> @Model.Unit.Nisja.ToString("dddd MMM yyyy")</p>
+    <form asp-action="Confirm" method="post" id="reservationForm">
+        <div class="form-group">
+        <label asp-for="@Model.Trip.Seats" class="font-weight-bold mb-3 text-white">Sa vende deshironi te rezervoni?</label>
+        <input asp-for="@Model.Trip.Seats" type="number" class="form-control"  id="tripInput" onchange="calculateTotal(@Model.Unit.Price)" min="1"  placeholder="Vendosni numrin e vendeve">
+        <span asp-validation-for="@Model.Trip.Seats" class="text-danger"></span>
+        <div id="Totali" class="text-white td-price" >Total : 0.00</div>
+        <input type="hidden" asp-for="@Model.Trip.UserId" value="@Model.User.id">
+        <input type="hidden" asp-for="@Model.Trip.UnitId" value="@Model.Unit.UnitId">
+        </div>
+         <button type="button" class="mt-4 btn btn-success w-100 p-3" onclick="confirmTravel(@Model.Unit.Seats, '@Model.Unit.Nisja.ToString("yyyy-MM-ddTHH:mm:ss")', event)">Konfirmo</button>
+
+    </form>
+
+</div>
+</div>

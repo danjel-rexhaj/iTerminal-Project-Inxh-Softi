@@ -1,0 +1,109 @@
+@model TerminalLibrary.Models.PaginatedProductViewModel
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Units</title>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+
+
+<div class="d-flex justify-content-between my-3">
+    <div class="custom-control custom-switch">
+        <input type="checkbox" class="custom-control-input" id="currencySwitch" onclick="toggleCurrency()">
+        <label class="custom-control-label text-white" for="currencySwitch">ALL</label>
+    </div>
+</div>
+
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <div class="alert alert-info">
+        @ViewBag.Message
+    </div>
+}
+
+<div class="dropdown">
+    <button class="btn btn-info text-white mt-5 dropdown-toggle mb-3" type="button" data-bs-toggle="dropdown"
+        aria-expanded="false">
+        Shfaq sipas nisjes
+    </button>
+    <ul class="dropdown-menu">
+        <li><a class="dropdown-item" asp-action="MyUnits">Udhetimet e ardhshme</a></li>
+        <li><a class="dropdown-item" asp-action="MyUnitsPast">Udhetimet e kaluara</a></li>
+    </ul>
+</div>
+
+
+
+
+
+<table class="table table-hover text-center text-white">
+    <thead>
+        <tr class="lista">
+            <th scope="col">Njesia</th>
+            <th scope="col">Image</th>
+            <th scope="col">Cmimi i biletes</th>
+            <th scope="col">Vendet</th>
+            <th scope="col">Linja</th>
+            <th scope="col">Kompania</th>
+            <th scope="col">Nisja</th>
+            <th scope="col">Actions</th>
+            <th scope="col"></th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Units)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td><img src="~/uploads/@item.ImageFileName" alt="item image" class="s-logo"></td>
+                <td class="td-price">@item.Price</td>
+                <td>@item.Seats</td>
+                <td>@item.route.PointA - @item.route.PointB</td>
+                <td>@item.Creator.Name</td>
+                <td>@item.Nisja.ToString("MM/dd/yyyy HH:mm")</td>
+                <td><a asp-action="UnitDetails" class="btn btn-secondary mr-2" asp-route-id="@item.UnitId"
+                        asp-controller="Admin">Shiko</a></td>
+                @{
+                    TimeSpan timeDifference = @item.Nisja - DateTime.Now;
+                    if (timeDifference.TotalMinutes > 5)
+                    {
+                        <td>
+                            <a asp-action="Delete" class="btn btn-outline-danger mr-2" asp-route-id="@item.UnitId"
+                                asp-controller="Admin">Delete</a>
+                        </td>
+                        <td><a asp-action="EditUnit" class="btn btn-outline-success" asp-route-id="@item.UnitId"
+                                asp-controller="Admin">Edit </a></td>
+                    }
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Pagination links -->
+<div class="pagination d-flex justify-content-center">
+    <nav aria-label="Page navigation example">
+        <ul class="pagination justify-content-center">
+            <li class="page-item @(Model.PageNumber == 1 ? "disabled" : "")">
+                <a class="page-link" href="@Url.Action("Index", new { page = Model.PageNumber - 1 })"
+                    tabindex="-1">Previous</a>
+            </li>
+
+            @for (int i = 1; i <= Model.TotalPages; i++)
+            {
+                <li class="page-item @(i == Model.PageNumber ? "active" : "")"> <!-- kontrollohet nese eshte faqja aktuale -->
+                    <a class="page-link" href="@Url.Action("Index", new { page = i })">@i</a>
+                </li>
+            }
+
+            <li class="page-item @(Model.PageNumber == Model.TotalPages ? "disabled" : "")">   <!-- kontrollohet nese jemi ne faqen e fundit -->
+                <a class="page-link" href="@Url.Action("Index", new { page = Model.PageNumber + 1})">Next</a>
+            </li>
+        </ul>
+    </nav>
+</div>

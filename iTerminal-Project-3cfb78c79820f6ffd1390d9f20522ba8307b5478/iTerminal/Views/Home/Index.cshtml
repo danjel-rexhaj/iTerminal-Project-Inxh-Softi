@@ -1,0 +1,219 @@
+﻿﻿@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@model TerminalLibrary.Models.Linja
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Kanit&display=swap" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap">
+
+<!doctype html>
+<html lang="sq">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, dhe kontribuesit Bootstrap">
+    <meta name="generator" content="Hugo 0.84.0">
+    <title>Faqja Kryesore · Terminali v5.0</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/carousel/">
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/css/bootstrap.min.css" rel="stylesheet">
+
+    
+    <style>
+        /* Stilizimet e personalizuara */
+        .welcome-message {
+            text-align: center;
+            margin-top: 20px;
+            color: white;
+        }
+
+            .welcome-message h1 {
+                font-family: 'Kanit', sans-serif;
+                font-size: 3rem;
+            }
+
+            .welcome-message p {
+                font-family: 'Open Sans', sans-serif;
+                font-size: 1.5rem;
+            }
+
+        .main-form {
+            background-color: rgba(107, 140, 142, 1);
+            padding: 30px;
+            border-bottom-left-radius: 50px;
+            border-bottom-right-radius: 50px;
+            margin-bottom: 50px;
+        }
+
+            .main-form input.form-control {
+                background-color: #ffffff;
+            }
+
+            .main-form button {
+                background-color: #dd8314;
+                border: none;
+                color: white;
+                font-weight: bold;
+                padding: 10px 20px;
+                border-radius: 5px;
+                transition: background-color 0.3s ease;
+            }
+
+                .main-form button:hover {
+                    background-color: #c56d0e;
+                }
+    </style>
+</head>
+
+<body>
+
+    <section class="welcome-message">
+        <div class="container">
+            <h1 class="display-4 font-weight-bold">Mirësevini në platformën iTerminal!</h1>
+            <p class="lead">Zbuloni mundësitë e pafundme të udhëtimit dhe shërbime të pakrahasueshme. Rezervoni biletat tuaja me lehtësi dhe filloni aventurën tuaj sot!</p>
+        </div>
+    </section>
+
+    <main>
+
+        <div id="myCarousel" class="carousel slide mt-5" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true"
+                        aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            </div>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="~/images/terminali1.1.jpg" class="d-block w-100" alt="Slide 1">
+                    <div class="carousel-caption d-none d-md-block">
+                        
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="~/images/terminali2.2.jpg" class="d-block w-100" alt="Slide 2">
+                    <div class="carousel-caption d-none d-md-block">
+                        
+                    </div>
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Paraardhës</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Pasues</span>
+            </button>
+        </div>
+
+        <div class="main-form">
+            <form asp-action="Show" method="post" asp-controller="Home">
+                <div class="container d-flex justify-content-around">
+                    <div class="grupet">
+                        <input asp-for="PointA" class="form-control edited-form" id="exampleFormControlInput1" placeholder="Nisja">
+                        <span asp-validation-for="PointA" class="text-danger font-italic mb-3"></span>
+                    </div>
+                    <div class="grupet">
+                        <input asp-for="PointB" class="form-control" id="exampleFormControlInput1" placeholder="Destinacioni">
+                        <span asp-validation-for="PointB" class="text-danger font-italic mb-3"></span>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Kërko</button>
+                </div>
+            </form>
+        </div>
+
+        <div class="row">
+            <h1 class="text-center mb-4 mt-2">Disa nga sygjerimet tona</h1>
+            <div class="col-lg-4 text-center">
+                <img src="~/images/valbona.png" class="bd-placeholder-img rounded-circle" width="140" height="140"
+                     xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140"
+                     preserveAspectRatio="xMidYMid slice" focusable="false">
+                <title>Placeholder</title>
+                <rect width="100%" height="100%" fill="#777" /><text x="50%" y="50%" fill="#777" dy=".3em"></text></svg>
+
+                <h2>Valbona</h2>
+                <p>Valbona ofron peizazhe malore magjepsëse, shtigje aventureske dhe natyrë të paprekur.</p>
+                <p></p>
+            </div>
+            <div class="col-lg-4 text-center">
+                <img src="~/images/ksamili.png" class="bd-placeholder-img rounded-circle" width="140" height="140"
+                     xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140"
+                     preserveAspectRatio="xMidYMid slice" focusable="false">
+                <title>Placeholder</title>
+                <rect width="100%" height="100%" fill="#777" /><text x="50%" y="50%" fill="#777" dy=".3em"></text></svg>
+
+                <h2>Ksamil</h2>
+                <p>Ksamili ofron plazhe të kristalta, ushqim të shijshëm dhe pamje të jashtëzakonshme.</p>
+                <p></p>
+            </div>
+            <div class="col-lg-4 text-center">
+                <img src="~/images/voskopoja.png" class="bd-placeholder-img rounded-circle" width="140" height="140"
+                     xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140"
+                     preserveAspectRatio="xMidYMid slice" focusable="false">
+                <title>Placeholder</title>
+                <rect width="100%" height="100%" fill="#777" /><text x="50%" y="50%" fill="#777" dy=".3em"></text></svg>
+
+                <h2>Voskopojë</h2>
+                <p>Voskopoja ofron histori të pasur, arkitekturë unike dhe natyrë të qetë.</p>
+                <p></p>
+            </div>
+        </div>
+       
+        <hr class="featurette-divider">
+
+        <div class="row featurette">
+            <div class="col-md-7">
+                <h2 class="featurette-heading">Një platformë,pafundesi udhëtimesh.</h2>
+                <p class="lead mt-4 text-muted">Një platformë, pafundësi udhëtimesh" nënkupton se terminali ynë është çelësi për të hapur një botë 
+                    të tërë mundësish për përdoruesit. Me një qasje të unifikuar dhe të thjeshtë, ofrojmë një gamë të gjerë 
+                    shërbimesh që përfshijnë çdo aspekt të udhëtimit, nga rezervimet dhe pagesat deri te informacionet e përditësuara dhe shërbimet shtesë.
+                    Pavarësisht destinacionit apo qëllimit të udhëtimit, platforma jonë garanton një përvojë 
+                    të qetë dhe të personalizuar, duke thjeshtuar çdo hap të procesit 
+                    dhe duke mundësuar udhëtime pa stres. Në këtë mënyrë, çdo udhëtim bëhet i mundur dhe i arritshëm, 
+                    duke e bërë botën më të vogël dhe më të lehtë për t'u eksploruar.</p>
+            </div>
+            <div class="col-md-5">
+                <img src="~/images/logo.png" class="bd-placeholder-img bd-placeholder-img-lg  img-fluid mx-auto bg-transparent" width="500"
+                     height="500" xmlns="http://www.w3.org/2000/svg" role="img" 
+                     preserveAspectRatio="xMidYMid slice" focusable="false">
+                    <title>Placeholder</title>
+                    <rect width="100%" height="100%" fill="#eee" />
+                    
+                </img>
+            </div>
+        </div>
+
+        <hr class="featurette-divider">
+
+        <div class="row featurette">
+            <div class="col-md-7 order-md-2">
+                <h2 class="featurette-heading">Shpejtësi dhe Efikasitet.</h2>
+                <p class="lead text-muted">Platforma jonë ofron shpejtësi dhe efikasitet të përparuar në çdo proces të udhëtimit.Përdorimi i teknologjive moderne dhe zgjidhjeve
+                    inovative siguron realizimin e transaksioneve
+                        dhe rezervimeve në kohë rekord. Një përvojë e përdoruesit pa vonesa dhe me performancë të lartë
+                    </>
+                </p>
+            </div>
+            <div class="col-md-5 order-md-1">
+                <img src="~/images/logo2.png" class="bd-placeholder-img bd-placeholder-img-lg  img-fluid mx-auto bg-transparent" width="500"
+                     height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500"
+                     preserveAspectRatio="xMidYMid slice" focusable="false">
+                    <title>Placeholder</title>
+                    <rect width="100%" height="100%" fill="#eee" />
+                    <text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text>
+                </img>
+            </div>
+        </div>
+
+
+
+        </div>
+
+        <!-- Skripti i Bootstrap -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.0-alpha2/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>

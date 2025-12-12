@@ -1,0 +1,367 @@
+html {
+  font-size: 14px;
+}
+header {
+  color: white;
+}
+
+header button {
+color: white;
+}
+
+.navbar {
+  display: flex;
+  flex-wrap: nowrap;
+  width: 99%;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  background-color: rgba(46,68,69,1);
+  padding: 5px;
+  border-radius: 20px;
+}
+
+.navbarr-nav {
+  display: flex;
+  flex-direction: row;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+@media (min-width: 428px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+body{
+  background: rgb(3,92,96);
+  background: linear-gradient(155deg, rgba(3,92,96,1) 0%, rgba(232,230,230,1) 83%);
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 428px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+
+html {
+  position: relative;
+  min-height: 100%;
+  color: white;
+  padding-left: 40px;
+  padding-top: 10px;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.main-form{
+  background-color:  rgba(107,140,142,1);
+  padding: 30px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+
+.card-body p {
+  color: black;
+}
+
+.grupet {
+  margin-top: 10px;
+}
+
+.s-logo{
+  width: 6em;
+}
+
+.portofolio{
+  justify-content: center;
+}
+
+.box2{
+  padding-right: 20px;
+  display: flex;
+ flex-direction: column;
+}
+
+.box2 img{
+  border: 3px solid gray;
+}
+
+.box2 h4{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #dd8314;
+  font-family: 'Kanit', Times, serif;
+}
+
+#end{
+  margin-top: 30px;
+  margin-right: 20px;
+  text-align: end;
+  font-size: small;
+  color: rgba(163,163,161,255)
+}
+
+.mid-content{
+  margin-top: 30px;
+}
+
+.font-kanit{
+  font-family: 'Kanit', Courier, monospace;
+}
+
+.lg-banner{
+  margin-top: 30px;
+  font-family: 'Honk', Courier, monospace;
+}
+
+
+
+#reklama h2 {
+  font-family: 'Open Sans', sans-serif;
+  color: #007BFF; 
+}
+
+.banner-two{
+  margin-top: 30px;
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+
+.nav-item {
+  justify-content: flex-end;
+  padding: 5px;
+  flex-direction: row;
+}
+
+.navbar-brand {
+  border-radius: 10px;
+  padding: 5px;
+}
+
+h1, h2, h3, p{
+  color: white;
+}
+
+
+.loginf{
+  width: 500px;
+  height: 500px;
+  margin: 50px;
+  margin-left: 30%;
+  padding: 60px;
+  align-items: center;
+  border-radius: 5px;
+  background: rgb(9,228,237);
+  background: linear-gradient(155deg, rgba(9,228,237,1) 0%, rgba(0,0,0,1) 83%);
+  border-radius: 50px;
+  
+}
+
+.itemsf {
+  width: 90%;
+  margin-left: 8%;
+}
+
+.regk {
+  width: 500px;
+  height: 580px;
+  margin: 50px;
+  margin-left: 30%;
+  padding: 60px;
+  align-items: center;
+  border-radius: 5px;
+  background: rgb(218, 227, 227);
+  background: linear-gradient(155deg, rgba(9,228,237,1) 0%, rgba(0,0,0,1) 83%);
+  border-radius: 50px;
+}
+
+.itemck{
+  width: 90%;
+  margin-left: 7%;
+  color: white;
+}
+
+
+.lista {
+  color: white;
+}
+
+
+.cont-nava{
+  width: 99%;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  background-color: rgba(46,68,69,1);
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#logouti {
+  position: relative;
+  left: 400px;
+}
+
+.brand-nav {
+  margin-left: 9px;
+  margin-top: 12px;
+}
+
+.itemsonnavi {
+  display: flex;
+  flex-direction: row;
+}
+
+
+a{
+  color: white;
+}
+
+li{
+  color: white;
+}
+
+.nav-link{
+  color: white;
+}
+
+footer.container a {
+  color: white;
+}
+
+.createform {
+  color: white;
+  width: 500px;
+  padding: 3%;
+  background: rgb(107,140,142);
+  background: linear-gradient(323deg, rgba(107,140,142,1) 51%, rgba(232,230,230,1) 100%);
+  border-radius: 50px;
+  margin-top: 20px;
+}
+
+.ruotecreate{
+  color: white;
+  width: 500px;
+  height: fit-content;
+  margin-top: 30px;
+  padding: 8%;
+  background: rgb(107,140,142);
+  background: linear-gradient(323deg, rgba(107,140,142,1) 51%, rgba(232,230,230,1) 100%);
+  border-radius: 50px;
+}
+
+
+.fotoja img {
+    
+    width: 150px;
+    margin-top: 25px;
+    margin-left: 150px;
+}
+
+button {
+  padding: 15px 25px;
+  border: unset;
+  border-radius: 15px;
+  color: #212121;
+  z-index: 1;
+  background: #e8e8e8;
+  position: relative;
+  font-weight: 1000;
+  font-size: 17px;
+  -webkit-box-shadow: 4px 8px 19px -3px rgba(0,0,0,0.27);
+  box-shadow: 4px 8px 19px -3px rgba(0,0,0,0.27);
+  transition: all 250ms;
+  overflow: hidden;
+ }
+ 
+ button::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 0;
+  border-radius: 15px;
+  background-color: #212121;
+  z-index: -1;
+  -webkit-box-shadow: 4px 8px 19px -3px rgba(0,0,0,0.27);
+  box-shadow: 4px 8px 19px -3px rgba(0,0,0,0.27);
+  transition: all 250ms
+ }
+ 
+ button:hover {
+  color: #e8e8e8;
+ }
+ 
+ button:hover::before {
+  width: 100%;
+ }
+
+.footeri {
+  width: 90%;
+  margin: 10px;
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.col-6 img {
+  width: 500px;
+  margin-top: 80px;
+}
+
+.blerja {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+
+.tedhenatb{
+  background: rgb(107,140,142);
+  background: linear-gradient(323deg, rgba(107,140,142,1) 51%, rgba(232,230,230,1) 100%);
+  padding: 40px;
+  border-radius: 30px;
+  margin-right: 100px;
+}
+
+.welcome-message {
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+
+    .welcome-message h1 {
+        font-family: 'Kanit', sans-serif;
+        font-size: 3rem;
+    }
+
+    .welcome-message p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 1.5rem;
+    }
+
+.navbarlogo {
+    text-decoration: none;
+    color: white;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px;
+}
+

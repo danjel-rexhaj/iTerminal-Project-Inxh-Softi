@@ -1,0 +1,45 @@
+C:\Users\zykae\OneDrive\Documents\programi_diploma\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.csproj.AssemblyReference.cache
+C:\Users\zykae\OneDrive\Documents\programi_diploma\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zykae\OneDrive\Documents\programi_diploma\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.AssemblyInfoInputs.cache
+C:\Users\zykae\OneDrive\Documents\programi_diploma\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.AssemblyInfo.cs
+C:\Users\zykae\OneDrive\Documents\programi_diploma\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\zykae\OneDrive\Documents\programi_diploma\edited\TerminalLibrary\TerminalLibrary\bin\Debug\net6.0\TerminalLibrary.deps.json
+C:\Users\zykae\OneDrive\Documents\programi_diploma\edited\TerminalLibrary\TerminalLibrary\bin\Debug\net6.0\TerminalLibrary.runtimeconfig.json
+C:\Users\zykae\OneDrive\Documents\programi_diploma\edited\TerminalLibrary\TerminalLibrary\bin\Debug\net6.0\TerminalLibrary.dll
+C:\Users\zykae\OneDrive\Documents\programi_diploma\edited\TerminalLibrary\TerminalLibrary\bin\Debug\net6.0\TerminalLibrary.pdb
+C:\Users\zykae\OneDrive\Documents\programi_diploma\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.dll
+C:\Users\zykae\OneDrive\Documents\programi_diploma\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\refint\TerminalLibrary.dll
+C:\Users\zykae\OneDrive\Documents\programi_diploma\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.pdb
+C:\Users\zykae\OneDrive\Documents\programi_diploma\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.genruntimeconfig.cache
+C:\Users\zykae\OneDrive\Documents\programi_diploma\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\ref\TerminalLibrary.dll
+C:\Users\zykae\OneDrive\Documents\programi_diploma\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.sourcelink.json
+C:\Users\zykae\OneDrive\Documents\prova\edited\TerminalLibrary\TerminalLibrary\bin\Debug\net6.0\TerminalLibrary.deps.json
+C:\Users\zykae\OneDrive\Documents\prova\edited\TerminalLibrary\TerminalLibrary\bin\Debug\net6.0\TerminalLibrary.runtimeconfig.json
+C:\Users\zykae\OneDrive\Documents\prova\edited\TerminalLibrary\TerminalLibrary\bin\Debug\net6.0\TerminalLibrary.dll
+C:\Users\zykae\OneDrive\Documents\prova\edited\TerminalLibrary\TerminalLibrary\bin\Debug\net6.0\TerminalLibrary.pdb
+C:\Users\zykae\OneDrive\Documents\prova\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.csproj.AssemblyReference.cache
+C:\Users\zykae\OneDrive\Documents\prova\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zykae\OneDrive\Documents\prova\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.AssemblyInfoInputs.cache
+C:\Users\zykae\OneDrive\Documents\prova\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.AssemblyInfo.cs
+C:\Users\zykae\OneDrive\Documents\prova\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\zykae\OneDrive\Documents\prova\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.sourcelink.json
+C:\Users\zykae\OneDrive\Documents\prova\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.dll
+C:\Users\zykae\OneDrive\Documents\prova\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\refint\TerminalLibrary.dll
+C:\Users\zykae\OneDrive\Documents\prova\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.pdb
+C:\Users\zykae\OneDrive\Documents\prova\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.genruntimeconfig.cache
+C:\Users\zykae\OneDrive\Documents\prova\edited\TerminalLibrary\TerminalLibrary\obj\Debug\net6.0\ref\TerminalLibrary.dll
+C:\Users\zykae\OneDrive\Desktop\Thesis Bachelor\iTerminal- Main\TerminalLibrary-main\TerminalLibrary-main\TerminalLibrary\bin\Debug\net6.0\TerminalLibrary.deps.json
+C:\Users\zykae\OneDrive\Desktop\Thesis Bachelor\iTerminal- Main\TerminalLibrary-main\TerminalLibrary-main\TerminalLibrary\bin\Debug\net6.0\TerminalLibrary.runtimeconfig.json
+C:\Users\zykae\OneDrive\Desktop\Thesis Bachelor\iTerminal- Main\TerminalLibrary-main\TerminalLibrary-main\TerminalLibrary\bin\Debug\net6.0\TerminalLibrary.dll
+C:\Users\zykae\OneDrive\Desktop\Thesis Bachelor\iTerminal- Main\TerminalLibrary-main\TerminalLibrary-main\TerminalLibrary\bin\Debug\net6.0\TerminalLibrary.pdb
+C:\Users\zykae\OneDrive\Desktop\Thesis Bachelor\iTerminal- Main\TerminalLibrary-main\TerminalLibrary-main\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.csproj.AssemblyReference.cache
+C:\Users\zykae\OneDrive\Desktop\Thesis Bachelor\iTerminal- Main\TerminalLibrary-main\TerminalLibrary-main\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zykae\OneDrive\Desktop\Thesis Bachelor\iTerminal- Main\TerminalLibrary-main\TerminalLibrary-main\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.AssemblyInfoInputs.cache
+C:\Users\zykae\OneDrive\Desktop\Thesis Bachelor\iTerminal- Main\TerminalLibrary-main\TerminalLibrary-main\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.AssemblyInfo.cs
+C:\Users\zykae\OneDrive\Desktop\Thesis Bachelor\iTerminal- Main\TerminalLibrary-main\TerminalLibrary-main\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\zykae\OneDrive\Desktop\Thesis Bachelor\iTerminal- Main\TerminalLibrary-main\TerminalLibrary-main\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.dll
+C:\Users\zykae\OneDrive\Desktop\Thesis Bachelor\iTerminal- Main\TerminalLibrary-main\TerminalLibrary-main\TerminalLibrary\obj\Debug\net6.0\refint\TerminalLibrary.dll
+C:\Users\zykae\OneDrive\Desktop\Thesis Bachelor\iTerminal- Main\TerminalLibrary-main\TerminalLibrary-main\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.pdb
+C:\Users\zykae\OneDrive\Desktop\Thesis Bachelor\iTerminal- Main\TerminalLibrary-main\TerminalLibrary-main\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.genruntimeconfig.cache
+C:\Users\zykae\OneDrive\Desktop\Thesis Bachelor\iTerminal- Main\TerminalLibrary-main\TerminalLibrary-main\TerminalLibrary\obj\Debug\net6.0\ref\TerminalLibrary.dll
+C:\Users\zykae\OneDrive\Desktop\Thesis Bachelor\iTerminal- Main\TerminalLibrary-main\TerminalLibrary-main\TerminalLibrary\obj\Debug\net6.0\TerminalLibrary.sourcelink.json

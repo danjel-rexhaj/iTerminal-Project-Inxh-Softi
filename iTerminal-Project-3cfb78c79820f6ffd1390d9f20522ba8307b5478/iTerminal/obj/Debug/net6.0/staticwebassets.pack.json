@@ -1,0 +1,473 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\iTerminal.bundle.scp.css",
+      "PackagePath": "staticwebassets\\iTerminal.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\css\\LR.css",
+      "PackagePath": "staticwebassets\\css\\LR.css"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\images\\alb_map.png",
+      "PackagePath": "staticwebassets\\images\\alb_map.png"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\images\\albb.jpg",
+      "PackagePath": "staticwebassets\\images\\albb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\images\\bus1.avif",
+      "PackagePath": "staticwebassets\\images\\bus1.avif"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\images\\bus1.jpg",
+      "PackagePath": "staticwebassets\\images\\bus1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\images\\bus2.jpg",
+      "PackagePath": "staticwebassets\\images\\bus2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\images\\busicc.jpg",
+      "PackagePath": "staticwebassets\\images\\busicc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\images\\ksamili.png",
+      "PackagePath": "staticwebassets\\images\\ksamili.png"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\images\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\images\\loupe.svg",
+      "PackagePath": "staticwebassets\\images\\loupe.svg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\images\\map.webp",
+      "PackagePath": "staticwebassets\\images\\map.webp"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\images\\pexels-gabriel-peter-219375-696680.jpg",
+      "PackagePath": "staticwebassets\\images\\pexels-gabriel-peter-219375-696680.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\images\\png-clipart-district-of-albania-wikipedia-blank-map-map-angle-white.png",
+      "PackagePath": "staticwebassets\\images\\png-clipart-district-of-albania-wikipedia-blank-map-map-angle-white.png"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\images\\terminali1.1.jpg",
+      "PackagePath": "staticwebassets\\images\\terminali1.1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\images\\terminali1.webp",
+      "PackagePath": "staticwebassets\\images\\terminali1.webp"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\images\\terminali2.2.jpg",
+      "PackagePath": "staticwebassets\\images\\terminali2.2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\images\\tirana.jpg",
+      "PackagePath": "staticwebassets\\images\\tirana.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\images\\transport.jpg",
+      "PackagePath": "staticwebassets\\images\\transport.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\images\\valbona.png",
+      "PackagePath": "staticwebassets\\images\\valbona.png"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\images\\voskopoja.png",
+      "PackagePath": "staticwebassets\\images\\voskopoja.png"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\01823d66-0c85-44bc-a3c7-4703dbc79450_abstract-golden-mesh-on-gold-background-vector.jpg",
+      "PackagePath": "staticwebassets\\uploads\\01823d66-0c85-44bc-a3c7-4703dbc79450_abstract-golden-mesh-on-gold-background-vector.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\07354119-11bf-44f0-8384-303ed987beb8_Screenshot 2024-01-28 181836.png",
+      "PackagePath": "staticwebassets\\uploads\\07354119-11bf-44f0-8384-303ed987beb8_Screenshot 2024-01-28 181836.png"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\074ab5d8-c1c1-4f47-b704-542897ba0ec9_NK.jpg",
+      "PackagePath": "staticwebassets\\uploads\\074ab5d8-c1c1-4f47-b704-542897ba0ec9_NK.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\1bd3b9a3-e3e2-4354-ba4d-eb80e65b4f71_saranda.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1bd3b9a3-e3e2-4354-ba4d-eb80e65b4f71_saranda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\1d2cff68-dc1f-42d2-9e3e-86fd8e2b2a41_transport.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1d2cff68-dc1f-42d2-9e3e-86fd8e2b2a41_transport.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\1d3436a8-76bc-4ce7-812c-45570f5fef5e_Screenshot 2024-01-27 122629.png",
+      "PackagePath": "staticwebassets\\uploads\\1d3436a8-76bc-4ce7-812c-45570f5fef5e_Screenshot 2024-01-27 122629.png"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\1d8adebe-f673-4229-a4b2-6425ca0df0a9_bus1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1d8adebe-f673-4229-a4b2-6425ca0df0a9_bus1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\22945a9c-44ef-4eb3-a452-fe2e9abc7fbb_Academy.png",
+      "PackagePath": "staticwebassets\\uploads\\22945a9c-44ef-4eb3-a452-fe2e9abc7fbb_Academy.png"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\31eb494f-2ee7-4cf8-8936-b3976bc27860_saranda.jpg",
+      "PackagePath": "staticwebassets\\uploads\\31eb494f-2ee7-4cf8-8936-b3976bc27860_saranda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\557ac9eb-f9b1-43de-a49b-c7e9a3c1b8ea_bus.jpg",
+      "PackagePath": "staticwebassets\\uploads\\557ac9eb-f9b1-43de-a49b-c7e9a3c1b8ea_bus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\5dcaff86-4a3f-425f-867c-b582d4c199cf_saranda.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5dcaff86-4a3f-425f-867c-b582d4c199cf_saranda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\5eace13d-bc25-4f3e-8684-abdf2551b1af_Screenshot 2024-01-26 193335.png",
+      "PackagePath": "staticwebassets\\uploads\\5eace13d-bc25-4f3e-8684-abdf2551b1af_Screenshot 2024-01-26 193335.png"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\6753d330-8dd1-4937-a183-157a86193a76_Screenshot 2024-02-06 125621.png",
+      "PackagePath": "staticwebassets\\uploads\\6753d330-8dd1-4937-a183-157a86193a76_Screenshot 2024-02-06 125621.png"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\7291a473-375f-44da-ba0b-40062d2690d7_Screenshot 2023-03-26 031956.png",
+      "PackagePath": "staticwebassets\\uploads\\7291a473-375f-44da-ba0b-40062d2690d7_Screenshot 2023-03-26 031956.png"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\73a461ed-d1fc-426a-92dc-a56c8b92139f_bus.jpg",
+      "PackagePath": "staticwebassets\\uploads\\73a461ed-d1fc-426a-92dc-a56c8b92139f_bus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\78de6da5-4e95-452c-9885-25ce7698abcc_saranda.jpg",
+      "PackagePath": "staticwebassets\\uploads\\78de6da5-4e95-452c-9885-25ce7698abcc_saranda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\7d349281-076b-42de-822b-73aa170d68d8_bus.jpg",
+      "PackagePath": "staticwebassets\\uploads\\7d349281-076b-42de-822b-73aa170d68d8_bus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\7f38aa69-0041-4b9d-a3ac-0efcd57a6115_bus2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\7f38aa69-0041-4b9d-a3ac-0efcd57a6115_bus2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\8bea1331-8dca-4b15-bcce-a81adebb8ce8_Academy.png",
+      "PackagePath": "staticwebassets\\uploads\\8bea1331-8dca-4b15-bcce-a81adebb8ce8_Academy.png"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\90602df4-8a9a-4b0b-b5c7-48e6cbeb4b81_tiro23.png",
+      "PackagePath": "staticwebassets\\uploads\\90602df4-8a9a-4b0b-b5c7-48e6cbeb4b81_tiro23.png"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\950471de-6a2d-4fa7-8fd5-cb7e392762ba_pti2073-1431x954.jpg",
+      "PackagePath": "staticwebassets\\uploads\\950471de-6a2d-4fa7-8fd5-cb7e392762ba_pti2073-1431x954.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\9ebb1640-3c23-49f9-ba19-c9a7d9a2f34d_saranda.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9ebb1640-3c23-49f9-ba19-c9a7d9a2f34d_saranda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\ac4fa9b0-4d42-46fc-9adb-492f8eac3a66_Academy.png",
+      "PackagePath": "staticwebassets\\uploads\\ac4fa9b0-4d42-46fc-9adb-492f8eac3a66_Academy.png"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\ad8994dd-5539-4dfc-93ae-3dcef45e0f87_saranda.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ad8994dd-5539-4dfc-93ae-3dcef45e0f87_saranda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\b6bf0b56-6813-475a-915e-7500714c044a_bus.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b6bf0b56-6813-475a-915e-7500714c044a_bus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\baf3204c-2f12-45dc-a357-a12c1e64a68e_saranda.jpg",
+      "PackagePath": "staticwebassets\\uploads\\baf3204c-2f12-45dc-a357-a12c1e64a68e_saranda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\cb4db9f9-3cd4-4228-8261-dac0d5bc1b02_saranda.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cb4db9f9-3cd4-4228-8261-dac0d5bc1b02_saranda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\d71e018f-a4da-4db1-b028-90a88b64c261_Screenshot 2024-02-29 005707.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d71e018f-a4da-4db1-b028-90a88b64c261_Screenshot 2024-02-29 005707.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\e2df8047-6420-43e1-b517-bb3d272126ef_saranda.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e2df8047-6420-43e1-b517-bb3d272126ef_saranda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\ea508b32-f800-4ec0-9acd-337adb7b7542_Screenshot 2024-01-27 122629.png",
+      "PackagePath": "staticwebassets\\uploads\\ea508b32-f800-4ec0-9acd-337adb7b7542_Screenshot 2024-01-27 122629.png"
+    },
+    {
+      "Id": "C:\\Users\\zykae\\OneDrive\\Desktop\\Thesis Bachelor\\iTerminal- Main\\TerminalLibrary-main\\TerminalLibrary-main\\iTerminal\\wwwroot\\uploads\\fb1fe38e-8ae3-4593-b5f2-1bb5cc5fc28a_download.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fb1fe38e-8ae3-4593-b5f2-1bb5cc5fc28a_download.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.iTerminal.props",
+      "PackagePath": "build\\iTerminal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.iTerminal.props",
+      "PackagePath": "buildMultiTargeting\\iTerminal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.iTerminal.props",
+      "PackagePath": "buildTransitive\\iTerminal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.iTerminal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

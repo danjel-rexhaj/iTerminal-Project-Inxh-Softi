@@ -1,0 +1,64 @@
+@model List<TerminalLibrary.Models.Unit>
+@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+
+
+<div class="d-flex justify-content-between my-3">
+    <div class="custom-control custom-switch">
+        <input type="checkbox" class="custom-control-input" id="currencySwitch" onclick="toggleCurrency()">
+        <label class="custom-control-label text-white" for="currencySwitch">ALL</label>
+    </div>
+</div>
+
+@if(Model.Count == 0){
+    <h1 class="text-center mt-5">Nuk u gjenden rezultate</h1>
+}
+else{
+
+    
+    <h1 class="text-center mb-5">U gjenden : @Model.Count rezultate</h1>
+
+    <div class="container text-center d-flex justify-content-around">
+        @foreach (var item in Model)
+        {
+            <div class="card mb-3 ml-3 justify-content-center" style="max-width: 540px;">
+  <div class="row g-0">
+    <div class="col-md-4">
+      <img src="~/uploads/@item.ImageFileName" class="img-fluid rounded-start" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h3 class="card-title">@item.Name</h3>
+        <h5 class="card-title">@item.Creator.Name</h5>
+        <p class="card-text">@item.Description</p>
+        <p class="card-text td-price">ALL @item.Price</p>
+        <p class="card-text"><strong>Nisja : @item.Nisja.ToString("dddd MMM yyyy")</strong></p>
+        <p class="card-text">
+            @if(@item.Seats < 10){
+                <small class="text-danger"> Nxito, vetem @item.Seats vende te lira</small>
+            }
+            else{
+            <small class="text-muted">Vende te lira : @item.Seats</small>
+            }
+            </p>
+            <a asp-action="Rezervo" asp-route-id="@item.UnitId" class="btn btn-outline-primary w-100 p-3">Rezervo Tani</a>
+      </div>
+    </div>
+  </div>
+</div>
+        }
+    </div>
+}
+        
