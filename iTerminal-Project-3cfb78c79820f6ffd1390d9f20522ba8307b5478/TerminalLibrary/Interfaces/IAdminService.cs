@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TerminalLibrary.Models;
 
+
 namespace TerminalLibrary.Interfaces
 {
     public  interface IAdminService
